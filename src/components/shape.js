@@ -11,6 +11,6 @@ class Shape
   {}
 }
 
-module.export = Shape;
+module.exports=Shape;
 
 // export class using module.exports
